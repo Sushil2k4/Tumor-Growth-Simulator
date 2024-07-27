@@ -1,4 +1,4 @@
-# Interactive Tumor Growth Simulator
+# The Tumor Growth Simulator
 ## Overview
 The Interactive Tumor Growth Simulator is a Python-based tool that models and visualizes the growth of tumors within a grid. Users can interact with the simulation by adjusting parameters such as the cell proliferation rate, nutrient availability, and simulation time steps. This tool provides real-time visualizations and metrics to understand the dynamics of tumor growth.
 

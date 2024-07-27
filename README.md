@@ -1,14 +1,14 @@
 # The Tumor Growth Simulator
-## Overview
+## 🌟 Overview 🌟
 The Interactive Tumor Growth Simulator is a Python-based tool that models and visualizes the growth of tumors within a grid. Users can interact with the simulation by adjusting parameters such as the cell proliferation rate, nutrient availability, and simulation time steps. This tool provides real-time visualizations and metrics to understand the dynamics of tumor growth.
 
-## Features
+##  🛠️ Features  🛠️
 Interactive Sliders: Adjust proliferation rate, nutrient availability, and time steps.
 Dynamic Visualizations: Includes 3D surface plots, heatmaps, and timeline graphs.
 Summary Dashboard: Displays key metrics and warnings.
 Educational Content: Provides context with additional information and images.
 
-## Installation
+## 🚀 Installation 🚀
 To set up the Interactive Tumor Growth Simulator, follow these steps:
 - Clone the Repository:
 ```
@@ -48,7 +48,7 @@ Nutrient Availability: Affects the growth based on nutrient levels.
 Time Step: Navigate through different simulation steps.
 The visualizations and metrics will update in real-time based on your inputs.
 
-## Testing
+## 🧪 Testing 🧪
 To test the simulator:
 
 - Run the Notebook Cells:
@@ -63,13 +63,13 @@ Check that the 3D surface plots, heatmaps, and timelines update correctly with p
 
 Confirm that the summary dashboard displays accurate metrics and warnings.
 
-- Contributing
+## 🤝 Contributing 🤝
 Feel free to submit issues or pull requests to contribute to the project. Ensure you follow the guidelines and test any changes thoroughly.
 
-- License
+## 📄 License 📄
 This project is licensed under the MIT License. See the  [MIT LICENSE](https://github.com/Sushil2k4/Tumor-Growth-Simulator/blob/main/LICENSE) FILE for details.
 
-Acknowledgements
+## 🙏🏻 Acknowledgements 🙏🏻
 NumPy: For numerical operations.
 Plotly: For interactive visualizations.
 Matplotlib: For heatmaps and timeline graphs.
